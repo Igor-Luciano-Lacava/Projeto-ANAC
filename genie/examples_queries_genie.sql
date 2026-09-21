@@ -136,3 +136,17 @@ LIMIT 10
 
 
 --AGORA, SÓ TESTAR PERGUNTANDO PRO GENIE!
+
+--INSTRUÇÕES DE PROCESSOS:
+
+--Quando criar um agente novo, vá na aba "About" e vê qual o tipo d e warehouse que tá sendo usado.  o warehouse apontado será o serverless. Se for default, muda pro serverless.
+
+--fonte única: obt_voos
+
+--instructions: essas coisas são o contexto. são contextos de negocio. um pouquinho mais de contexto além de metadados que falamos
+
+-- aba "examples" --> mostram perguntas que sao mais comuns para usarmos de exemplo
+
+--dá pra explorar mais essa mesma base da anac de mais diversas outras formas
+
+--configure --> examples --> add --> example query --> colocar nome da pergunta e fazer query sql
